@@ -1,4 +1,4 @@
-# 💫 About Me:
+#  About Me:
 🔭 I’m currently working on implementing bayesian statistics in python<br>👯 I’m looking to collaborate on cool and innovative projects<br>🌱 I’m currently expending my knowledge of AI <br>💬 Ask me about Python, back-end, Tech start-ups and webdesign<br>⚡ Fun fact my first webdesign class was given by a guy who introduced the internet in Ukraine.
 
 
